@@ -11,7 +11,7 @@ This is a simple bank management system built using python's GUI toolkit Tkinter
 
 Database
 
-<img src="https://user-images.githubusercontent.com/97102202/229875811-46dfb11f-790a-445b-85ca-239560e5ad68.png">
+<img src="https://user-images.githubusercontent.com/97102202/229876866-8064ce97-2d7a-4639-b7bf-5b41524f75bb.png">
 
 
 
